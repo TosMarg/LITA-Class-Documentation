@@ -14,4 +14,10 @@ LITA_DB EMPLOYEE TABLE
 - Data Cleaning and Preparations
 - Data Analysis
 - Data VIsualization
+
+  ### Project Overview
+
+  The goal of this project is to provide meaningful insight into employee demographics, compensation strutures, and
+  salary distribution across different organization
+  
   
