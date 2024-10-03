@@ -54,5 +54,8 @@ LITA_DB EMPLOYEE TABLE
        select count(staffid) As employeecount
        from employee 
    ````
+
+### Data Visualization
+
      
   
