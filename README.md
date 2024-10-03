@@ -55,5 +55,4 @@ LITA_DB EMPLOYEE TABLE
        from employee 
    ````
 
-### Data Visualization  
-  
+### Data Visualization    
