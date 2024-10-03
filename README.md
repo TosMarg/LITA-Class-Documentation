@@ -56,3 +56,4 @@ LITA_DB EMPLOYEE TABLE
    ````
 
 ### Data Visualization   
+https://github.com/TosMarg/LITA-Class-Documentation/blob/main/data%20image.png
